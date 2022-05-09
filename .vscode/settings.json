@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "_mingw_print_push.h": "c",
+        "string.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "cmake.configureOnOpen": false
+}
